@@ -1,0 +1,1 @@
+Integer `x` is a *quadratic residue* if there exists an `a` such that $a^2 \equiv x (\textrm{mod}\ p)$. If there is no such solution, the the integer is a *quadratic non-residue*
