@@ -1,0 +1,1 @@
+A field is a set on which addition, substraction, multiplication and division are defined and behave as the corresponding operations on rational and real numbers.
