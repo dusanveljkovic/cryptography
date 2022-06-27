@@ -1,0 +1,2 @@
+## Parameter Injection
+By intercepting the connection between Alice and Bob we can replace the `A` and `B` values they send to eachother with `p`. This makes the shared secret: $$S = p^a = p^b = 0\ (\textrm{mod}\ p)$$
